@@ -13,7 +13,10 @@ Randomly generated passwords can provide greater security for sensitive data. HT
 * JavaScript
 
 # Website
-https://milfred08.github.io/passwordgenerator/
+The project was uploaded to GitHub at the following repository: https://github.com/Milfred08/passwordgenerator/
+
+You can access the deployed application with the GitHup Pages link: https://milfred08.github.io/passwordgenerator/
+
 
 
 <img width="854" alt="Screen Shot 2021-02-21 at 5 57 19 PM" src="https://user-images.githubusercontent.com/77700824/108660657-e49b8c80-747f-11eb-8a35-4322a1a4ecd1.png">
